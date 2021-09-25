@@ -12,4 +12,4 @@ This banking malware is back in the news; not only because of its popularity, bu
 
 However, these recent versions of the popular banking Trojan do incorporate several interesting novelties that, little by little, put it on a level with its rival Anubis Bankbot in functionalities.
 </font>
-<font color="green">On Discord : Proxy#6819</font>
+
